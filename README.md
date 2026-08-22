@@ -25,4 +25,5 @@ Secondary Drivers: Depreciation & Amortization and Hardware & Software make up t
 4. Actual Spend by Region
 
 Geographic Concentration: The USA heavily dominates total spending at over $700M.
-Minor Regional Footprint: Europe represents the second largest market at ~$110M, while Latin America, Aus & NZ, Canada, and Africa & Asia combine for a negligible fraction of the overall expenditure.
+Minor Regional Footprint: Europe represents the second largest market at ~$110M, while Latin America, Aus & NZ, Canada, and Africa & Asia 
+combine for a negligible fraction of the overall expenditure.
